@@ -1,4 +1,4 @@
-Python Implementation of the [clockclock 24](https://www.humanssince1982.com/)
+Python Implementation of the [clockclock 24](https://www.humanssince1982.com/) using Tkinter
 
 Instructions:
 
